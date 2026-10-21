@@ -1,0 +1,11 @@
+{
+  "org": "jupyterhub",
+  "repo": "jupyterhub-deploy-docker",
+  "versions": [
+    {
+      "commit": "e2b79700d32662403ad951a13f19030864ad581a",
+      "tag": "",
+      "parsed_at": "2026-10-21T22:26:12.104624+00:00"
+    }
+  ]
+}
