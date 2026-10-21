@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "jupyterhub",
+  "repo": "jupyterhub-deploy-docker",
+  "versions": [
+    {
+      "commit": "e2b79700d32662403ad951a13f19030864ad581a",
+      "parsed_at": "2026-10-21T22:24:16.681500+00:00",
+      "filetree": "filetree/e2b79700d32662403ad951a13f19030864ad581a.nq.gz",
+      "blobs": [
+        "blob/5072f5c59d1e46f4bbf3630d50927a84b6ad3576.nq.gz",
+        "blob/8124dd0e3db2049c65bb5776876e7343cac560b0.nq.gz",
+        "blob/9e57aa90765e075ae7d168193d004ac38454c254.nq.gz",
+        "blob/af5af5eef19c8fc1272000d389bdbf63d2545459.nq.gz",
+        "blob/460421cf5fcc30e1669a62443346cf194ebf5809.nq.gz",
+        "blob/1b8087bc3a015e5ac545cd3cc04780556d1ad70b.nq.gz",
+        "blob/ac28a1317de255ffe99107f6c59ae3dba02bab63.nq.gz",
+        "blob/c9457822f6071f6db1fc62d7fce5293be25adbe9.nq.gz",
+        "blob/0dc89813dc10ed07777226c26d348a19ce3afb93.nq.gz",
+        "blob/4d6a59f45d7e62f8bfcbcf3473a84740e9b0ef70.nq.gz",
+        "blob/e5de3387a261c666cff02979c52c32f680e83965.nq.gz",
+        "blob/ad0635fb1729c6d3f6bea968329a4f70ca79bdd2.nq.gz",
+        "blob/a76395562314b661b2598f377b47fb2c5ab9a60a.nq.gz",
+        "blob/c2f2e7aacfe513641c9bd4e8ef990e4182fb8038.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
