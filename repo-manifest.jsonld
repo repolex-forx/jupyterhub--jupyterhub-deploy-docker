@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jupyterhub/jupyterhub-deploy-docker/commit/e2b79700d32662403ad951a13f19030864ad581a",
       "git:hexsha": "e2b79700d32662403ad951a13f19030864ad581a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
